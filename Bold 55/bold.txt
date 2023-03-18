@@ -1,0 +1,138 @@
+Bold 55 
+
+Bold 55 Logo
+
+About Section
+comfort 
+homeness
+a family away from home
+leave with an unforgetable experience
+
+
+Order now Section
+orders are directed to business line as text 
+
+Gallery Section
+
+Menu Section
+banku and tilapia
+goat pepper soup
+jollof rice
+fried rice
+plain rice
+yam chip and pork
+
+Drinks 
+hennessey
+johnnie walker
+Turqouilla
+Alomo Bitters
+
+
+<section class="gallery" id="gallery">
+
+    <h1 class="heading">our food <span>gallery</span> </h1>
+
+    <div class="box-container">
+        <div class="box">
+            <img src="images/assorted.png" alt="">
+            <div class="content">
+                <h3>Tasty Food</h3>
+                <p>adorned with cartoon palm trees, 
+                    that evokes bygone California and Florida resorts
+                    .Anchored by an award-winning burger, the elevated
+                </p>
+                <a href="#order" class="btn">order now</a>
+            </div>
+        </div>
+        <div class="box">
+            <img src="images/rice.jpg" alt="">
+            <div class="content">
+                <h3>Tasty Food</h3>
+                <p>adorned with cartoon palm trees, 
+                    that evokes bygone California and Florida resorts
+                    .Anchored by an award-winning burger, the elevated
+                </p>
+                <a href="#order" class="btn">order now</a>
+            </div>
+        </div>
+        <div class="box">
+            <img src="images/jollof.jpg" alt="">
+            <div class="content">
+                <h3>Tasty Food</h3>
+                <p>adorned with cartoon palm trees, 
+                    that evokes bygone California and Florida resorts
+                    .Anchored by an award-winning burger, the elevated
+                </p>
+                <a href="#order" class="btn">order now</a>
+            </div>
+        </div>
+        <div class="box">
+            <img src="images/yam chips.jpg" alt="">
+            <div class="content">
+                <h3>Tasty Food</h3>
+                <p>adorned with cartoon palm trees, 
+                    that evokes bygone California and Florida resorts
+                    .Anchored by an award-winning burger, the elevated
+                </p>
+                <a href="#order" class="btn">order now</a>
+            </div>
+        </div>
+        <div class="box">
+            <img src="images/spag.webp" alt="">
+            <div class="content">
+                <h3>Tasty Food</h3>
+                <p>adorned with cartoon palm trees, 
+                    that evokes bygone California and Florida resorts
+                    .Anchored by an award-winning burger, the elevated
+                </p>
+                <a href="#order" class="btn">order now</a>
+            </div>
+        </div>
+        <div class="box">
+            <img src="images/beans.jpg" alt="">
+            <div class="content">
+                <h3>Tasty Food</h3>
+                <p>adorned with cartoon palm trees, 
+                    that evokes bygone California and Florida resorts
+                    .Anchored by an award-winning burger, the elevated
+                </p>
+                <a href="#order" class="btn">order now</a>
+            </div>
+        </div>
+        <div class="box">
+            <img src="images/fufu.jpg" alt="">
+            <div class="content">
+                <h3>Tasty Food</h3>
+                <p>adorned with cartoon palm trees, 
+                    that evokes bygone California and Florida resorts
+                    .Anchored by an award-winning burger, the elevated
+                </p>
+                <a href="#order" class="btn">order now</a>
+            </div>
+        </div>
+        <div class="box">
+            <img src="images/omotuo.jfif" alt="">
+            <div class="content">
+                <h3>Tasty Food</h3>
+                <p>adorned with cartoon palm trees, 
+                    that evokes bygone California and Florida resorts
+                    .Anchored by an award-winning burger, the elevated
+                </p>
+                <a href="#order" class="btn">order now</a>
+            </div>
+        </div>
+        <div class="box">
+            <img src="images/banku.jpg" alt="">
+            <div class="content">
+                <h3>Tasty Food</h3>
+                <p>adorned with cartoon palm trees, 
+                    that evokes bygone California and Florida resorts
+                    .Anchored by an award-winning burger, the elevated
+                </p>
+                <a href="#order" class="btn">order now</a>
+            </div>
+        </div>
+    </div>
+</section>
+
